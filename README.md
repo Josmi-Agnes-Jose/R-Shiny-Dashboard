@@ -10,7 +10,7 @@ The code to create and run the application is provided in the `Dashboard.r` R fi
 
 ### Dataset
 
-The dataset which is used for the logistic regression analysis is available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal of this study is to predict whether the patient has 10-year risk of future coronary heart diseases. The Framingham dataset consists of 4240 records of patients. There are 15 features and the target variable, with a total of 645 missing values. This dataset `Framingham_Data.csv`, provided in this repository is the version after pre-processing. The orginal Framingham Heart Study dataset used can be found on the [Kaggle Datsets](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset).
+The dataset which is used for the logistic regression analysis is available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal of this study is to predict whether the patient has 10-year risk of future coronary heart diseases. The Framingham dataset consists of 4240 records of patients. There are 15 features and the target variable, with a total of 645 missing values. This dataset `Framingham_Data.csv`, provided in this repository is the version after pre-processing. The orginal Framingham Heart Study dataset used can be found on the [Kaggle Datasets](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset).
 
 ### www
 
